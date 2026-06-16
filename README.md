@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0647-palindromic-substrings](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0198-house-robber) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
