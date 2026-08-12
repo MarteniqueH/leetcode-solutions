@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
