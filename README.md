@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0198-house-robber) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
