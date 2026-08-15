@@ -1,9 +1,14 @@
 class Solution(object):
     def moveZeroes(self, nums):
+        result = []
+        count = 0
+
         for num in nums:
             if num == 0:
-                nums.remove(num)
+                count += 1
+            else:
+                result.append(num)
 
-                nums.append(0)
+        result.extend([0] * count)
 
-        return nums
+        nums[:] = result
