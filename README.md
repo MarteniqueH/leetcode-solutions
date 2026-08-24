@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0647-palindromic-substrings](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1816-truncate-sentence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1816-truncate-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1816-truncate-sentence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3903-smallest-stable-index-i](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
