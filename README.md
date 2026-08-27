@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0647-palindromic-substrings](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0647-palindromic-substrings) |
