@@ -1,49 +1,70 @@
 class Solution(object):
     def largestRectangleArea(self, heights):
-       #Finds the largest rectangular area that can be made from the histogram
+        # This stack will store the INDEXES of bars.
+        # We use indexes instead of heights because we need
+        # to calculate the width of each rectangle.
+        stack = []
 
-            #Stores indexes of bars in increasing height order
-            stack = []
+        # Keep track of the largest rectangle area we have found.
+        largest = 0
 
-            #Keeps track of the largest area found so far
-            best = 0
+        # Add a 0 to the end.
+        # This forces us to remove/process all remaining bars
+        # from the stack when we reach the end.
+        heights.append(0)
 
-            #Loops through every bar, plus one extra iteration to process remaining bars
-            for right in range(len(heights) + 1):
+        # Go through every bar in the histogram.
+        # i = index of the bar
+        # h = height of the bar
+        for i, h in enumerate(heights):
 
-                #Uses height 0 at the end so every remaining bar gets processed
-                current_height = heights[right] if right < len(heights) else 0
+            # If the current bar is shorter than the bar
+            # at the top of the stack, we can no longer extend
+            # that taller bar to the right.
+            #
+            # So we remove the taller bar from the stack
+            # and calculate the rectangle it could make.
+            while stack and h < heights[stack[-1]]:
 
-                #Removes bars from the stack while the current bar is shorter
-                #This means the removed bar can no longer extend to the right
-                while stack and heights[stack[-1]] > current_height:
+                # Get the height of the bar we are removing.
+                height = heights[stack.pop()]
 
-                    #Gets the index of the bar being removed
-                    height_index = stack.pop()
+                # After popping, the bar at the top of the stack
+                # tells us where the rectangle can start.
+                #
+                # If the stack isn't empty, stack[-1] is the
+                # first smaller bar to the LEFT.
+                if stack:
+                    left = stack[-1]
 
-                    #Gets the height of the rectangle using that bar
-                    height = heights[height_index]
+                # If the stack is empty, there is no smaller bar
+                # to the left, so we can extend all the way
+                # to the beginning of the histogram.
+                else:
+                    left = -1
 
-                    #If the stack is empty, the rectangle extends from index 0 to right - 1
-                    #Otherwise, the rectangle starts after the new top of the stack
-                    left = stack[-1] + 1 if stack else 0
+                # Calculate how many bars wide the rectangle is.
+                #
+                # i = first smaller bar to the RIGHT
+                # left = first smaller bar to the LEFT
+                #
+                # We subtract 1 because neither smaller bar
+                # can be included in the rectangle.
+                width = i - left - 1
 
-                    #Calculates how many bars wide the rectangle can be
-                    #Right is not included because the current bar is shorter
-                    width = right - left
+                # Calculate the rectangle's area:
+                #
+                # area = height × width
+                #
+                # Then compare it with the largest area we've
+                # found so far.
+                largest = max(largest, width * height)
 
-                    #Calculates the area using the removed bar as the shortest height
-                    area = height * width
+            # Add the current bar's index to the stack.
+            #
+            # The stack keeps indexes of bars in increasing
+            # height order (from bottom to top).
+            stack.append(i)
 
-                    #Compares the newly calculated area with the current best
-                    #and keeps whichever is larger
-                    best = max(best, area)
-
-                #Adds the current bar to the stack
-                #The stack stays in increasing height order
-                stack.append(right)
-
-            #Returns the largest rectangle area found
-            return best
-
-                    
+        # Return the biggest rectangle area we found.
+        return largest
