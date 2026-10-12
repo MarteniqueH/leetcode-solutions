@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0647-palindromic-substrings](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1816-truncate-sentence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1816-truncate-sentence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3903-smallest-stable-index-i](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Quickselect
 |  |
 | ------- |
