@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3903-smallest-stable-index-i](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3903-smallest-stable-index-i](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
