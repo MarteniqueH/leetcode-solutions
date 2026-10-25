@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3903-smallest-stable-index-i](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0853-car-fleet](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0853-car-fleet) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0704-binary-search) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3903-smallest-stable-index-i](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Database
 |  |
 | ------- |
@@ -227,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 <!---LeetCode Topics End-->
