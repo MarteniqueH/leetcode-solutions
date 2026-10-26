@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
