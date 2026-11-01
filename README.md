@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0155-min-stack) |
+| [0706-design-hashmap](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0706-design-hashmap](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
