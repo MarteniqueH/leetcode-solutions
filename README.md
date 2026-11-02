@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1816-truncate-sentence](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0853-car-fleet](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |
@@ -141,14 +143,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -265,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0706-design-hashmap) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
