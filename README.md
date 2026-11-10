@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/MarteniqueH/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3224-minimum-array-changes-to-make-differences-equal) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3903-smallest-stable-index-i](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/MarteniqueH/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/MarteniqueH/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Function
 |  |
 | ------- |
